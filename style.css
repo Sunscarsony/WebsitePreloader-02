@@ -19,7 +19,7 @@ html, body{
     width: 100%;
     display: flex;
     justify-content: space-between;
-    padding: 2em;
+    padding: 2.1em;
 }
 
 .header .h1
